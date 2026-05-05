@@ -13,7 +13,7 @@ title                    : "Julia A. Turner"
 title_separator          : "-"
 name                     : &name "Julia A. Turner"
 description              : &description "PhD Candidate in Human Development and Social Policy at Northwestern University"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "julia-a-turner.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://julia-a-turner.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
