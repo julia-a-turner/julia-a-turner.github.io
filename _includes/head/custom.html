@@ -2,6 +2,13 @@
 
 <!-- start custom head snippets -->
 <link rel="stylesheet" href="/assets/css/custom.css">
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    document.querySelectorAll('a[href$=".pdf"]').forEach(function(link) {
+      link.setAttribute('target', '_blank');
+    });
+  });
+</script>
 
 <!-- Support for Academicons -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
