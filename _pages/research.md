@@ -25,7 +25,7 @@ author_profile: true
 **[Community College Bachelor's Degrees: How CCB Graduates' Earnings Compare to AAs and BAs](https://www.nber.org/papers/w34684)**
 (with [Riley Acton](https://www.rileyacton.com/) ⓡ, [Camila Morales](https://www.camilantmorales.com/) ⓡ, [Kalena Cortes](https://www.kalenacortes.com/) ⓡ, and [Lois Miller](https://www.loismiller.info/home) ⓡ)
 
-[[NBER Working Paper No. 34684](https://www.nber.org/papers/w34684) &nbsp; | &nbsp; [Associated report](https://pseocoalition.org/wp-content/uploads/2025/07/PSEO-Coalition_Community-College-Bachelor-Degrees-How-CCB-Graduates-Earnings-Compare.pdf) for the [Postsecondary Employment Outcomes (PSEO) Coalition](https://pseocoalition.org/) &nbsp; | &nbsp; [NBER Digest](https://www.nber.org/digest/202603/earnings-community-college-bachelors-degree-graduates?page=1&perPage=50) &nbsp; | &nbsp; [Brookings Chalkboard](https://www.brookings.edu/articles/what-are-community-college-bachelors-degrees-and-how-much-do-their-graduates-earn/)]
+[NBER Working Paper No. 34684](https://www.nber.org/papers/w34684) &nbsp; · &nbsp; [NBER Digest](https://www.nber.org/digest/202603/earnings-community-college-bachelors-degree-graduates?page=1&perPage=50) &nbsp; · &nbsp; [PSEO Report](https://pseocoalition.org/wp-content/uploads/2025/07/PSEO-Coalition_Community-College-Bachelor-Degrees-How-CCB-Graduates-Earnings-Compare.pdf) &nbsp; · &nbsp; [Brookings Chalkboard](https://www.brookings.edu/articles/what-are-community-college-bachelors-degrees-and-how-much-do-their-graduates-earn/)
 
 <details>
 <summary>Abstract</summary>
