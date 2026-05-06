@@ -23,7 +23,7 @@ repository               : "julia-a-turner/julia-a-turner.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Headshot-21.jpg"
+  avatar           : "images/Headshot-21.png"
   name             : "Julia A. Turner"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Human Development and Social Policy"
