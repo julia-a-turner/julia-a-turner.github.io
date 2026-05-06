@@ -1,11 +1,11 @@
 .page__content p,
 .page__content li,
 .page__content details {
-  font-size: 0.88em;
+  font-size: 1em;
 }
 
 .page__content h2 {
-  font-size: 1.2em;
+  font-size: 1.4em;
 }
 
 footer {
