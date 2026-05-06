@@ -17,7 +17,7 @@ author_profile: true
 
 &emsp; *Review of Economics and Statistics*
 
----
+<br>
 
 ## Working Papers
 
@@ -58,7 +58,7 @@ Building on canonical models of human capital investment, this paper explores th
 </details>
 <br>
 
----
+
 
 ## Works in Progress
 
@@ -68,7 +68,8 @@ Building on canonical models of human capital investment, this paper explores th
 - Moving Forward and Staying in Place: Choosing the Community College Baccalaureate Degree
 - Accessible Higher Education and Outside Options (with [Carl Gergs](https://carlgergs.com/))
 
----
+<br>
+
 
 ## Policy Briefs and Other Writing
 
