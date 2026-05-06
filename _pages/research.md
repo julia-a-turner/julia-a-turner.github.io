@@ -11,7 +11,6 @@ author_profile: true
 
 *Journal of Policy Analysis and Management* (Policy Brief)
 
----
 
 **[Raising state minimum wages, lowering community college enrollment](https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01457/120871/Raising-State-Minimum-Wages-Lowering-Community?redirectedFrom=fulltext)**
 (with [Diane Schanzenbach](https://www.dianeschanzenbach.com/) and [Sarah Turner](https://economics.virginia.edu/people/set5h))
@@ -33,7 +32,6 @@ author_profile: true
 We provide the first descriptive analysis of the economic value of Community College Baccalaureate (CCB) degrees by examining graduates' early-career earnings, the costs of completing these programs, and the alignment between field of study and subsequent employment. Using administrative data and controlling for institution and field, we find that CCB graduates earn $4,000 to $9,000 more annually than Associate's (AA) degree holders one year after graduation but experience average earnings penalties of roughly $2,000 relative to traditional Bachelor's (BA) recipients. These averages mask substantial heterogeneity: penalties are largest in Computer and Information Technology and Engineering Technology, whereas CCB graduates in Nursing, other Healthcare fields, Business, and Criminal Justice exhibit minimal or no penalties. To contextualize these returns, we analyze tuition and fee structures across CCB-granting institutions and identify two dominant pricing models—constant and escalating. Total CCB program costs fall between those of AA and BA degrees, with escalating structures increasing upper-division prices by about 40 percent. Finally, we examine field-to-industry match patterns and find that CCB graduates in fields with well-defined occupational pathways, such as Health Professions and Education, are highly concentrated in aligned industries, while graduates in more diffuse fields, such as Computer Science, are more broadly dispersed.
 </details>
 
----
 
 **[Universal Pre-K as Economic Stimulus: Evidence from Nine States and Large Cities in the U.S.](https://www.nber.org/papers/w33767)**
 (with Kirabo Jackson and Jacob Bastian)
@@ -45,7 +43,7 @@ We provide the first descriptive analysis of the economic value of Community Col
 <br>
 While Universal Pre-Kindergarten (UPK) is known to increase maternal labor supply, its broader labor market effects remain understudied. We analyze UPK programs implemented across nine states and cities between 1995 and 2019, exploiting staggered adoption for identification. In conservative specifications, UPK increased Pre-K enrollment by about 10 percentage points and raised labor force participation, employment, and hours worked by roughly 1 percent. Employment effects were largest for mothers (who account for about one-fifth of the total effect) but extended to other groups, especially women. Among adults without young children, effects are strongest for groups that, based on time use data, spend significant time caring for young children—consistent with UPK inducing increased employment among informal child care providers. Impacts vary across settings, with the largest effects in areas providing at least five hours of care per day. UPK increased aggregate earnings by about 0.6% overall, with each dollar spent generating roughly four dollars in additional earnings; this rises to 3%, corresponding to thirteen dollars per dollar spent, for expansions providing five or more hours of care. Accounting for state tax revenue alone, state Marginal Values of Public Funds (MVPF) range from 0.65 to 1.31, while the social MVPF, which also accounts for induced federal tax revenue, ranges from 1.77 to 3.53 across all programs and is infinite for full-time programs that generate sufficient state and federal tax revenue to fully pay for themselves. Results suggest that labor market responses beyond the canonical model that focuses on parents alone lead to sizable economic returns to early childhood education investments.
 </details>
----
+
 
 **Theoretical foundations of the minimum wage and post-secondary investment**
 
