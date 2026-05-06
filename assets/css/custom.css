@@ -1,0 +1,13 @@
+.page__content p,
+.page__content li,
+.page__content details {
+  font-size: 0.88em;
+}
+
+.page__content h2 {
+  font-size: 1.1em;
+}
+
+footer {
+  display: none;
+}
