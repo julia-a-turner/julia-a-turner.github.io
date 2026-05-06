@@ -24,7 +24,7 @@ author_profile: true
 **[Community College Bachelor's Degrees: How CCB Graduates' Earnings Compare to AAs and BAs](https://www.nber.org/papers/w34684)**
 (with [Riley Acton](https://www.rileyacton.com/) ⓡ, [Camila Morales](https://www.camilantmorales.com/) ⓡ, [Kalena Cortes](https://www.kalenacortes.com/) ⓡ, and [Lois Miller](https://www.loismiller.info/home) ⓡ)
 
-[[NBER WP No. 34684](https://www.nber.org/papers/w34684) &nbsp; · &nbsp; [NBER Digest](https://www.nber.org/digest/202603/earnings-community-college-bachelors-degree-graduates?page=1&perPage=50) &nbsp; · &nbsp; [PSEO Report](https://pseocoalition.org/wp-content/uploads/2025/07/PSEO-Coalition_Community-College-Bachelor-Degrees-How-CCB-Graduates-Earnings-Compare.pdf) &nbsp; · &nbsp; [Brookings Chalkboard](https://www.brookings.edu/articles/what-are-community-college-bachelors-degrees-and-how-much-do-their-graduates-earn/)]
+[ [NBER WP No. 34684](https://www.nber.org/papers/w34684) &nbsp; · &nbsp; [NBER Digest](https://www.nber.org/digest/202603/earnings-community-college-bachelors-degree-graduates?page=1&perPage=50) &nbsp; · &nbsp; [PSEO Report](https://pseocoalition.org/wp-content/uploads/2025/07/PSEO-Coalition_Community-College-Bachelor-Degrees-How-CCB-Graduates-Earnings-Compare.pdf) &nbsp; · &nbsp; [Brookings Chalkboard](https://www.brookings.edu/articles/what-are-community-college-bachelors-degrees-and-how-much-do-their-graduates-earn/) ]
 
 <details>
 <summary>Abstract</summary>
@@ -37,7 +37,7 @@ We provide the first descriptive analysis of the economic value of Community Col
 **[Universal Pre-K as Economic Stimulus: Evidence from Nine States and Large Cities in the U.S.](https://www.nber.org/papers/w33767)**
 (with Kirabo Jackson and Jacob Bastian)
 
-[[NBER WP No. 33767](https://www.nber.org/papers/w33767)]
+[ [NBER WP No. 33767](https://www.nber.org/papers/w33767) ]
 
 <details>
 <summary>Abstract</summary>
@@ -49,7 +49,7 @@ While Universal Pre-Kindergarten (UPK) is known to increase maternal labor suppl
 
 **Theoretical foundations of the minimum wage and post-secondary investment**
 
-[Presented at [IZA Summer School](https://conference.iza.org/conference_files/SummerSchool_2023/program) (Berlin, July 2023)]
+[ Presented at [IZA Summer School](https://conference.iza.org/conference_files/SummerSchool_2023/program) (Berlin, July 2023) ]
 
 <details>
 <summary>Abstract</summary>
