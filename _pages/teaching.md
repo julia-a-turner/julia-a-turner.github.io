@@ -9,7 +9,10 @@ author_profile: true
 
 Teaching Assistant for Professor Hannes Schwandt (Winter 2022, Winter 2023)
 
-[Teaching Evaluations (Winter 2022)](https://drive.google.com/file/d/1IkFTjg58LJADaOzr6Xy11eEjTpWSsYUL/view?usp=sharing) &nbsp;|&nbsp; [Teaching Evaluations (Winter 2023)](https://drive.google.com/file/d/1DMfjBWRwFvgNFSnXBc0WVB_UL-7LXUBD/view?usp=sharing)
+<details>
+<summary>Abstract</summary>
+<br>
+[Teaching Evaluations (Winter 2022)](https://drive.google.com/file/d/1IkFTjg58LJADaOzr6Xy11eEjTpWSsYUL/view?usp=sharing) &nbsp · &nbsp; [Teaching Evaluations (Winter 2023)](https://drive.google.com/file/d/1DMfjBWRwFvgNFSnXBc0WVB_UL-7LXUBD/view?usp=sharing)
 
 ---
 
@@ -18,8 +21,11 @@ Teaching Assistant for Professor Hannes Schwandt (Winter 2022, Winter 2023)
 
 Co-Instructor with Professor Sugat Dabholkar (Spring 2022)
 
+<details>
+<summary>Abstract</summary>
+<br>
 [Teaching Evaluations](https://drive.google.com/file/d/1OPl4kV4Kzxvr81JwiibMUa6mgw_BItFL/view?usp=sharing)
-
+</details>
 ---
 
 ## Quantitative Methods I
@@ -27,8 +33,11 @@ Co-Instructor with Professor Sugat Dabholkar (Spring 2022)
 
 Teaching Assistant for Professor Hannes Schwandt (Fall 2022)
 
+<details>
+<summary>Abstract</summary>
+<br>
 [Teaching Evaluations](https://drive.google.com/file/d/1YKRjgMQVlUaTU2j-7ZGyst_nB6gnggd8/view?usp=sharing)
-
+</details>
 ---
 
 ## Quantitative Methods III
@@ -36,4 +45,8 @@ Teaching Assistant for Professor Hannes Schwandt (Fall 2022)
 
 Teaching Assistant for Professor Ofer Malamud (Spring 2023)
 
+<details>
+<summary>Abstract</summary>
+<br>
 [Teaching Evaluations](https://drive.google.com/file/d/1gvOEgwZefa97xZAu-U8-sXxyyjs9Mg-M/view?usp=sharing)
+</details>
