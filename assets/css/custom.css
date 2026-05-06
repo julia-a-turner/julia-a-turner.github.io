@@ -11,3 +11,35 @@
 footer {
   display: none;
 }
+
+/* Hide the Follow button */
+.author__urls-wrapper button {
+  display: none !important;
+}
+
+/* Make social links display as a centered row */
+.author__urls {
+  display: flex !important;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  padding: 0 !important;
+  list-style: none !important;
+}
+
+/* Keep location/employer on their own full-width lines */
+.author__urls li:not(:has(a)) {
+  width: 100%;
+  text-align: center;
+}
+
+/* Hide the text labels next to icons */
+.author__urls a .label {
+  display: none;
+}
+
+/* Make icons slightly larger */
+.author__urls a {
+  font-size: 1.2em;
+}
