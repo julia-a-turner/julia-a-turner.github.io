@@ -5,7 +5,7 @@
 }
 
 .page__content h2 {
-  font-size: 1.1em;
+  font-size: 1.2em;
 }
 
 footer {
@@ -35,11 +35,11 @@ footer {
 }
 
 /* Hide the text labels next to icons */
-.author__urls a .label {
+.author__urls a span {
   display: none;
 }
 
 /* Make icons slightly larger */
 .author__urls a {
-  font-size: 1.2em;
+  font-size: 0.88em;
 }
