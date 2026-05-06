@@ -24,7 +24,7 @@ author_profile: true
 **[Community College Bachelor's Degrees: How CCB Graduates' Earnings Compare to AAs and BAs](https://www.nber.org/papers/w34684)**
 (with [Riley Acton](https://www.rileyacton.com/) ⓡ, [Camila Morales](https://www.camilantmorales.com/) ⓡ, [Kalena Cortes](https://www.kalenacortes.com/) ⓡ, and [Lois Miller](https://www.loismiller.info/home) ⓡ)
 
-&emsp; [NBER Working Paper No. 34684](https://www.nber.org/papers/w34684) &nbsp; · &nbsp; [NBER Digest](https://www.nber.org/digest/202603/earnings-community-college-bachelors-degree-graduates?page=1&perPage=50) &nbsp; · &nbsp; [PSEO Report](https://pseocoalition.org/wp-content/uploads/2025/07/PSEO-Coalition_Community-College-Bachelor-Degrees-How-CCB-Graduates-Earnings-Compare.pdf) &nbsp; · &nbsp; [Brookings Chalkboard](https://www.brookings.edu/articles/what-are-community-college-bachelors-degrees-and-how-much-do-their-graduates-earn/)
+[[NBER WP No. 34684](https://www.nber.org/papers/w34684) &nbsp; · &nbsp; [NBER Digest](https://www.nber.org/digest/202603/earnings-community-college-bachelors-degree-graduates?page=1&perPage=50) &nbsp; · &nbsp; [PSEO Report](https://pseocoalition.org/wp-content/uploads/2025/07/PSEO-Coalition_Community-College-Bachelor-Degrees-How-CCB-Graduates-Earnings-Compare.pdf) &nbsp; · &nbsp; [Brookings Chalkboard](https://www.brookings.edu/articles/what-are-community-college-bachelors-degrees-and-how-much-do-their-graduates-earn/)]
 
 <details>
 <summary>Abstract</summary>
@@ -32,11 +32,12 @@ author_profile: true
 We provide the first descriptive analysis of the economic value of Community College Baccalaureate (CCB) degrees by examining graduates' early-career earnings, the costs of completing these programs, and the alignment between field of study and subsequent employment. Using administrative data and controlling for institution and field, we find that CCB graduates earn $4,000 to $9,000 more annually than Associate's (AA) degree holders one year after graduation but experience average earnings penalties of roughly $2,000 relative to traditional Bachelor's (BA) recipients. These averages mask substantial heterogeneity: penalties are largest in Computer and Information Technology and Engineering Technology, whereas CCB graduates in Nursing, other Healthcare fields, Business, and Criminal Justice exhibit minimal or no penalties. To contextualize these returns, we analyze tuition and fee structures across CCB-granting institutions and identify two dominant pricing models—constant and escalating. Total CCB program costs fall between those of AA and BA degrees, with escalating structures increasing upper-division prices by about 40 percent. Finally, we examine field-to-industry match patterns and find that CCB graduates in fields with well-defined occupational pathways, such as Health Professions and Education, are highly concentrated in aligned industries, while graduates in more diffuse fields, such as Computer Science, are more broadly dispersed.
 </details>
 
+<br>
 
 **[Universal Pre-K as Economic Stimulus: Evidence from Nine States and Large Cities in the U.S.](https://www.nber.org/papers/w33767)**
 (with Kirabo Jackson and Jacob Bastian)
 
-&emsp; [[NBER Working Paper No. 33767](https://www.nber.org/papers/w33767)]
+[[NBER WP No. 33767](https://www.nber.org/papers/w33767)]
 
 <details>
 <summary>Abstract</summary>
@@ -44,16 +45,18 @@ We provide the first descriptive analysis of the economic value of Community Col
 While Universal Pre-Kindergarten (UPK) is known to increase maternal labor supply, its broader labor market effects remain understudied. We analyze UPK programs implemented across nine states and cities between 1995 and 2019, exploiting staggered adoption for identification. In conservative specifications, UPK increased Pre-K enrollment by about 10 percentage points and raised labor force participation, employment, and hours worked by roughly 1 percent. Employment effects were largest for mothers (who account for about one-fifth of the total effect) but extended to other groups, especially women. Among adults without young children, effects are strongest for groups that, based on time use data, spend significant time caring for young children—consistent with UPK inducing increased employment among informal child care providers. Impacts vary across settings, with the largest effects in areas providing at least five hours of care per day. UPK increased aggregate earnings by about 0.6% overall, with each dollar spent generating roughly four dollars in additional earnings; this rises to 3%, corresponding to thirteen dollars per dollar spent, for expansions providing five or more hours of care. Accounting for state tax revenue alone, state Marginal Values of Public Funds (MVPF) range from 0.65 to 1.31, while the social MVPF, which also accounts for induced federal tax revenue, ranges from 1.77 to 3.53 across all programs and is infinite for full-time programs that generate sufficient state and federal tax revenue to fully pay for themselves. Results suggest that labor market responses beyond the canonical model that focuses on parents alone lead to sizable economic returns to early childhood education investments.
 </details>
 
+<br>
 
 **Theoretical foundations of the minimum wage and post-secondary investment**
 
-&emsp; Presented at [IZA Summer School](https://conference.iza.org/conference_files/SummerSchool_2023/program) (Berlin, July 2023)
+[Presented at [IZA Summer School](https://conference.iza.org/conference_files/SummerSchool_2023/program) (Berlin, July 2023)]
 
 <details>
 <summary>Abstract</summary>
 <br>
 Building on canonical models of human capital investment, this paper explores the potential of the minimum wage to impact college enrollment decisions by shifting both the wage premium and the opportunity cost associated with post-secondary investment. Whereas existing literature presents conflicting evidence on enrollment responses across two- and four-year institutions, I present a unifying framework with which to make sense of these effects. Using national post-secondary enrollment data from IPEDS and wage data from the CPS, I show that the extent to which these parameters are shifted by a changing minimum wage is a function of prevailing wage distributions in the year before a minimum wage change occurs and, specifically, who is bound by the new minimum wage. Guided by my theoretical framework, I use variation in state-level minimum wage changes to size the determinants of enrollment responses to individual changes across years and states. I show that states in which higher shares of high school graduates are bound by the minimum wage are those most likely to experience large enrollment declines at community colleges in response to an increasing minimum wage. Finally, I use my framework to consolidate conflicting estimates from the existing literature.
 </details>
+<br>
 
 ---
 
