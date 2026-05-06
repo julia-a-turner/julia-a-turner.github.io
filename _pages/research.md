@@ -9,13 +9,13 @@ author_profile: true
 **[Apprenticeships in the United States: Emerging Opportunities and Evidence Gaps](https://onlinelibrary.wiley.com/doi/10.1002/pam.70082)**
 (with [Rajeev Darolia](http://rajeevdarolia.com/))
 
-*Journal of Policy Analysis and Management* (Policy Brief)
+&emsp; *Journal of Policy Analysis and Management* (Policy Brief)
 
 
 **[Raising state minimum wages, lowering community college enrollment](https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01457/120871/Raising-State-Minimum-Wages-Lowering-Community?redirectedFrom=fulltext)**
 (with [Diane Schanzenbach](https://www.dianeschanzenbach.com/) and [Sarah Turner](https://economics.virginia.edu/people/set5h))
 
-*Review of Economics and Statistics*
+&emsp; *Review of Economics and Statistics*
 
 ---
 
@@ -24,7 +24,7 @@ author_profile: true
 **[Community College Bachelor's Degrees: How CCB Graduates' Earnings Compare to AAs and BAs](https://www.nber.org/papers/w34684)**
 (with [Riley Acton](https://www.rileyacton.com/) ⓡ, [Camila Morales](https://www.camilantmorales.com/) ⓡ, [Kalena Cortes](https://www.kalenacortes.com/) ⓡ, and [Lois Miller](https://www.loismiller.info/home) ⓡ)
 
-[NBER Working Paper No. 34684](https://www.nber.org/papers/w34684) &nbsp; · &nbsp; [NBER Digest](https://www.nber.org/digest/202603/earnings-community-college-bachelors-degree-graduates?page=1&perPage=50) &nbsp; · &nbsp; [PSEO Report](https://pseocoalition.org/wp-content/uploads/2025/07/PSEO-Coalition_Community-College-Bachelor-Degrees-How-CCB-Graduates-Earnings-Compare.pdf) &nbsp; · &nbsp; [Brookings Chalkboard](https://www.brookings.edu/articles/what-are-community-college-bachelors-degrees-and-how-much-do-their-graduates-earn/)
+&emsp; [NBER Working Paper No. 34684](https://www.nber.org/papers/w34684) &nbsp; · &nbsp; [NBER Digest](https://www.nber.org/digest/202603/earnings-community-college-bachelors-degree-graduates?page=1&perPage=50) &nbsp; · &nbsp; [PSEO Report](https://pseocoalition.org/wp-content/uploads/2025/07/PSEO-Coalition_Community-College-Bachelor-Degrees-How-CCB-Graduates-Earnings-Compare.pdf) &nbsp; · &nbsp; [Brookings Chalkboard](https://www.brookings.edu/articles/what-are-community-college-bachelors-degrees-and-how-much-do-their-graduates-earn/)
 
 <details>
 <summary>Abstract</summary>
@@ -36,7 +36,7 @@ We provide the first descriptive analysis of the economic value of Community Col
 **[Universal Pre-K as Economic Stimulus: Evidence from Nine States and Large Cities in the U.S.](https://www.nber.org/papers/w33767)**
 (with Kirabo Jackson and Jacob Bastian)
 
-[[NBER Working Paper No. 33767](https://www.nber.org/papers/w33767)]
+&emsp; [[NBER Working Paper No. 33767](https://www.nber.org/papers/w33767)]
 
 <details>
 <summary>Abstract</summary>
@@ -47,7 +47,7 @@ While Universal Pre-Kindergarten (UPK) is known to increase maternal labor suppl
 
 **Theoretical foundations of the minimum wage and post-secondary investment**
 
-Presented at [IZA Summer School](https://conference.iza.org/conference_files/SummerSchool_2023/program) (Berlin, July 2023)
+&emsp; Presented at [IZA Summer School](https://conference.iza.org/conference_files/SummerSchool_2023/program) (Berlin, July 2023)
 
 <details>
 <summary>Abstract</summary>
