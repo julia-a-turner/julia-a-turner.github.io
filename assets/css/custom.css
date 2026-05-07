@@ -25,3 +25,7 @@ footer {
 details p, details {
   font-size: 0.85em;
 }
+
+.page__title {
+  display: none;
+}
