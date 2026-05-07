@@ -9,7 +9,7 @@ author_profile: true
 
 
 
-<details>
+<details markdown="1">
 <summary>Teaching Assistant for Professor Hannes Schwandt</summary>
 <br>
   
@@ -25,7 +25,7 @@ author_profile: true
 **Northwestern University** | Undergraduate (Required)
 
 
-<details>
+<details markdown="1">
 <summary>Co-Instructor with Professor Sugat Dabholkar</summary>
 <br>
   
@@ -39,7 +39,7 @@ author_profile: true
 **Northwestern University** | Graduate (Required)
 
 
-<details>
+<details markdown="1">
 <summary>Teaching Assistant for Professor Hannes Schwandt </summary>
 <br>
   
@@ -53,7 +53,7 @@ author_profile: true
 **Northwestern University** | Graduate (Required)
 
 
-<details>
+<details markdown="1">
 <summary>Teaching Assistant for Professor Ofer Malamud </summary>
 <br>
   
