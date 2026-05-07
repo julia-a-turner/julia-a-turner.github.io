@@ -15,3 +15,9 @@ html {
 footer {
   display: none;
 }
+
+@media (min-width: 925px) {
+  .page {
+    padding-left: 3em;
+  }
+}
