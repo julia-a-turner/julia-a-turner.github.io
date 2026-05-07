@@ -21,3 +21,7 @@ footer {
     padding-left: 3em;
   }
 }
+
+details p, details {
+  font-size: 0.85em;
+}
