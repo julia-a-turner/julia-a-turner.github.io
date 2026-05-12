@@ -66,7 +66,7 @@ Building on canonical models of human capital investment, this paper explores th
 - Understanding Student Debt Relief: Insights from SAVE
 - Estimating the Value of a New Postsecondary Credential: An Audit Study of Community College Bachelor's Degrees (with [Riley Acton](https://www.rileyacton.com/home), [Kalena Cortes](https://www.kalenacortes.com/), [Lois Miller](https://www.loismiller.info/home), and [Camila Morales](https://www.camilantmorales.com/))
 - Gender Gaps in Student Loan Repayment (with [Meredith Welch](https://www.meredithswelch.com/))
-- Moving Forward and Staying in Place: Choosing the Community College Baccalaureate Degree
+- Moving Forward and Staying in Place: Choosing the Community College Baccalaureate
 - Accessible Higher Education and Outside Options (with [Carl Gergs](https://carlgergs.com/))
 
 <br>
