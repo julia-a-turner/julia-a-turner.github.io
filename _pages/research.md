@@ -4,7 +4,6 @@ title: ""
 author_profile: true
 ---
 
-<br>
 
 ## Job Market Paper
 
