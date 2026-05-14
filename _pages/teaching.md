@@ -13,9 +13,9 @@ author_profile: true
 <summary>Teaching Assistant for Professor Hannes Schwandt</summary>
 <br>
   
-[Teaching Evaluations (Winter 2022)](https://drive.google.com/file/d/1IkFTjg58LJADaOzr6Xy11eEjTpWSsYUL/view?usp=sharing)
+[Teaching Evaluations (Winter 2022)](/files/TAevals_SOCPOL333_winter2022.pdf)
 
-[Teaching Evaluations (Winter 2023)](https://drive.google.com/file/d/1DMfjBWRwFvgNFSnXBc0WVB_UL-7LXUBD/view?usp=sharing)
+[Teaching Evaluations (Winter 2023)](/files/TAevals_SOCPOL333_winter2023.pdf)
 
 </details>
 
@@ -29,7 +29,7 @@ author_profile: true
 <summary>Co-Instructor with Professor Sugat Dabholkar</summary>
 <br>
   
-[Teaching Evaluations (Spring 2022)](https://drive.google.com/file/d/1OPl4kV4Kzxvr81JwiibMUa6mgw_BItFL/view?usp=sharing)
+[Teaching Evaluations (Spring 2022)](/files/TAevals_SESP210_spring2022.pdf)
 
 </details>
 
@@ -43,7 +43,7 @@ author_profile: true
 <summary>Teaching Assistant for Professor Hannes Schwandt </summary>
 <br>
   
-[Teaching Evaluations (Fall 2022)](https://drive.google.com/file/d/1YKRjgMQVlUaTU2j-7ZGyst_nB6gnggd8/view?usp=sharing)
+[Teaching Evaluations (Fall 2022)](/files/TAevals_HDSP410_fall2022.pdf)
 
 </details>
 
@@ -57,7 +57,7 @@ author_profile: true
 <summary>Teaching Assistant for Professor Ofer Malamud </summary>
 <br>
   
-[Teaching Evaluations (Spring 2023)](https://drive.google.com/file/d/1gvOEgwZefa97xZAu-U8-sXxyyjs9Mg-M/view?usp=sharing)
+[Teaching Evaluations (Spring 2023)](/files/TAevals_HDSP412_spring2023.pdf)
 
 </details>
 
