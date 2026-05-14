@@ -4,20 +4,20 @@ title: ""
 author_profile: true
 ---
 
-## Publications
+<br>
 
-**[Apprenticeships in the United States: Emerging Opportunities and Evidence Gaps](https://onlinelibrary.wiley.com/doi/10.1002/pam.70082)**
-(with [Rajeev Darolia](http://rajeevdarolia.com/))
+## Job Market Paper
 
-&emsp; *Journal of Policy Analysis and Management* (Policy Brief)
+**[Degrees within Reach: Who Benefits from \\ Community College Baccalaureate Introduction?]**
 
-
-**[Raising state minimum wages, lowering community college enrollment](https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01457/120871/Raising-State-Minimum-Wages-Lowering-Community?redirectedFrom=fulltext)**
-(with [Diane Schanzenbach](https://www.dianeschanzenbach.com/) and [Sarah Turner](https://economics.virginia.edu/people/set5h))
-
-&emsp; *Review of Economics and Statistics*
+<details>
+<summary>Abstract</summary>
+<br>
+Despite sustained policy innovation in financial aid, transfer pathways, and student supports, the income gap in bachelor's degree attainment has nearly doubled over the past four decades, prompting interest in alternative pathways to four-year credentials. One such pathway is the community college baccalaureate degree (CCB): state legislation that authorizes community colleges to confer bachelor's degrees. CCB legislation has expanded rapidly to 24 states, yet it is unclear whether the introduction of these programs is successfully expanding access to bachelor's degrees for target populations. This paper provides among the first causal estimates of the effects of CCB program introduction on degree attainment and earnings using the staggered rollout of programs across Washington state between 2005 and 2024. Longitudinal administrative data linking K-12 records, postsecondary enrollment, and quarterly earnings for Washington public high school graduates, allows me to implement a stacked event study design that leverages both geographic and temporal variation in CCB introduction across the state. Motivated by the canonical democratization versus diversion framework from Rouse (1995), I further separately identify treatment effects based on students' predicted enrollment counterfactuals. I find that the introduction of CCB programs increases the probability of bachelor's degree completion for exposed students, but that this aggregate effect masks substantial heterogeneity. Students predicted to otherwise enroll in two-year colleges experience meaningful gains in the probability of BA attainment and earnings, while those who were likely to attend four-year institutions in the absence of CCB introduction see null to negative effects on these same outcomes. These findings suggest that, in their current form, CCBs have the potential to democratize access to bachelor's degrees for under-resourced students but may also divert more academically prepared students from higher-return pathways.
+</details>
 
 <br>
+
 
 ## Working Papers
 
@@ -62,12 +62,26 @@ Building on canonical models of human capital investment, this paper explores th
 
 ## Works in Progress
 
-- Long-run Impacts of CCBA Introduction and Expansion: Evidence from Washington State
 - Understanding Student Debt Relief: Insights from SAVE
-- Estimating the Value of a New Postsecondary Credential: An Audit Study of Community College Bachelor's Degrees (with [Riley Acton](https://www.rileyacton.com/home), [Kalena Cortes](https://www.kalenacortes.com/), [Lois Miller](https://www.loismiller.info/home), and [Camila Morales](https://www.camilantmorales.com/))
-- Gender Gaps in Student Loan Repayment (with [Meredith Welch](https://www.meredithswelch.com/))
 - Moving Forward and Staying in Place: Choosing the Community College Baccalaureate
+- Estimating the Value of a New Postsecondary Credential: An Audit Study of Community College Bachelor's Degrees (with [Riley Acton](https://www.rileyacton.com/home), [Kalena Cortes](https://www.kalenacortes.com/), [Lois Miller](https://www.loismiller.info/home), [Camila Morales](https://www.camilantmorales.com/))
+- Gender Gaps in Student Loan Repayment (with [Meredith Welch](https://www.meredithswelch.com/))
 - Accessible Higher Education and Outside Options (with [Carl Gergs](https://carlgergs.com/))
+
+<br>
+
+## Publications
+
+**[Apprenticeships in the United States: Emerging Opportunities and Evidence Gaps](https://onlinelibrary.wiley.com/doi/10.1002/pam.70082)**
+(with [Rajeev Darolia](http://rajeevdarolia.com/))
+
+&emsp; *Journal of Policy Analysis and Management* (Policy Brief)
+
+
+**[Raising state minimum wages, lowering community college enrollment](https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01457/120871/Raising-State-Minimum-Wages-Lowering-Community?redirectedFrom=fulltext)**
+(with [Diane Schanzenbach](https://www.dianeschanzenbach.com/) and [Sarah Turner](https://economics.virginia.edu/people/set5h))
+
+&emsp; *Review of Economics and Statistics*
 
 <br>
 
