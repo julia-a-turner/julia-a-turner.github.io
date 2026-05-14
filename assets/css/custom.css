@@ -29,3 +29,7 @@ details p, details {
 .page__title {
   display: none;
 }
+
+.masthead::after {
+  display: none;
+}
