@@ -8,7 +8,7 @@ author_profile: true
 
 ## Job Market Paper
 
-**[Degrees within Reach: Who Benefits from \\ Community College Baccalaureate Introduction?]**
+**Degrees within Reach: Who Benefits from Community College Baccalaureate Introduction?**
 
 <details>
 <summary>Abstract</summary>
