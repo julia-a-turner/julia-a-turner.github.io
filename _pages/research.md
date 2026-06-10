@@ -34,7 +34,7 @@ We provide the first descriptive analysis of the economic value of Community Col
 <br>
 
 **[Universal Pre-K as Economic Stimulus: Evidence from Nine States and Large Cities in the U.S.](https://www.nber.org/papers/w33767)**
-(with Kirabo Jackson and Jacob Bastian)
+(with Kirabo Jackson and Jacob Bastian) _Under Review_
 
 [ [NBER WP No. 33767](https://www.nber.org/papers/w33767) ]
 
@@ -42,6 +42,18 @@ We provide the first descriptive analysis of the economic value of Community Col
 <summary>Abstract</summary>
 <br>
 While Universal Pre-Kindergarten (UPK) is known to increase maternal labor supply, its broader labor market effects remain understudied. We analyze UPK programs implemented across nine states and cities between 1995 and 2019, exploiting staggered adoption for identification. In conservative specifications, UPK increased Pre-K enrollment by about 10 percentage points and raised labor force participation, employment, and hours worked by roughly 1 percent. Employment effects were largest for mothers (who account for about one-fifth of the total effect) but extended to other groups, especially women. Among adults without young children, effects are strongest for groups that, based on time use data, spend significant time caring for young children—consistent with UPK inducing increased employment among informal child care providers. Impacts vary across settings, with the largest effects in areas providing at least five hours of care per day. UPK increased aggregate earnings by about 0.6% overall, with each dollar spent generating roughly four dollars in additional earnings; this rises to 3%, corresponding to thirteen dollars per dollar spent, for expansions providing five or more hours of care. Accounting for state tax revenue alone, state Marginal Values of Public Funds (MVPF) range from 0.65 to 1.31, while the social MVPF, which also accounts for induced federal tax revenue, ranges from 1.77 to 3.53 across all programs and is infinite for full-time programs that generate sufficient state and federal tax revenue to fully pay for themselves. Results suggest that labor market responses beyond the canonical model that focuses on parents alone lead to sizable economic returns to early childhood education investments.
+</details>
+
+<br>
+
+**Estimating the Value of a New Postsecondary Credential: An Audit Study of Community College Bachelor's Degrees**
+(with [Riley Acton](https://www.rileyacton.com/home), [Camila Morales](https://www.camilantmorales.com/)), [Lois Miller](https://www.loismiller.info/home), [Kalena Cortes](https://www.kalenacortes.com/)
+
+<details>
+<summary>Abstract</summary>
+<br>
+Despite growing demand for bachelor’s degrees, disparities in degree attainment persist across socioeconomic and demographic groups, prompting policymakers to explore alternative pathways to bachelor’s degree completion. Community College Baccalaureate (CCB) programs have emerged as one such pathway, allowing community colleges to confer bachelor’s degrees directly. However, little is known about how employers value these credentials in the labor market. To address this question, we conduct the first resume audit study of CCB degrees, submitting fictitious applications to real job vacancies while experimentally varying applicants’ educational credentials, degree-granting institutions, and demographic signals. In this pilot study, we focus on the early childhood education (ECE) labor market, a rapidly growing CCB field characterized by labor shortages and increasing educational requirements. We find that applicants holding CCB degrees receive callback rates comparable to those of applicants with traditional bachelor’s and associate degrees, suggesting that employers do not systematically discount CCB credentials in this setting. A text analysis of employer callback messages reveals little evidence that employers communicate differently with CCB applicants, while a net-price simulation suggests that sticker-price comparisons substantially overstate the affordability advantage of CCB programs. Together, these findings provide new evidence on the labor market value and affordability of CCB degrees.
+
 </details>
 
 <br>
@@ -63,9 +75,7 @@ Building on canonical models of human capital investment, this paper explores th
 
 - Understanding Student Debt Relief: Insights from SAVE
 - Moving Forward and Staying in Place: Choosing the Community College Baccalaureate
-- Estimating the Value of a New Postsecondary Credential: An Audit Study of Community College Bachelor's Degrees (with [Riley Acton](https://www.rileyacton.com/home), [Kalena Cortes](https://www.kalenacortes.com/), [Lois Miller](https://www.loismiller.info/home), [Camila Morales](https://www.camilantmorales.com/))
 - Gender Gaps in Student Loan Repayment (with [Meredith Welch](https://www.meredithswelch.com/))
-- Accessible Higher Education and Outside Options (with [Carl Gergs](https://carlgergs.com/))
 
 <br>
 
