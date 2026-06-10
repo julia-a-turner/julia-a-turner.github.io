@@ -39,7 +39,7 @@ We provide the first descriptive analysis of the economic value of Community Col
 <br>
 
 **Estimating the Value of a New Postsecondary Credential: An Audit Study of Community College Bachelor's Degrees**
-(with [Riley Acton](https://www.rileyacton.com/home), [Camila Morales](https://www.camilantmorales.com/)), [Lois Miller](https://www.loismiller.info/home), [Kalena Cortes](https://www.kalenacortes.com/)
+(with [Riley Acton](https://www.rileyacton.com/home), [Camila Morales](https://www.camilantmorales.com/), [Lois Miller](https://www.loismiller.info/home), [Kalena Cortes](https://www.kalenacortes.com/))
 
 <details>
 <summary>Abstract</summary>
