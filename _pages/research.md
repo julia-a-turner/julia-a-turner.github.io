@@ -12,7 +12,7 @@ author_profile: true
 <details>
 <summary>Abstract</summary>
 <br>
-Expanding access to bachelor's degrees has become a central goal of higher education policy, and one  solution is offering them at community colleges. Community college baccalaureate (CCB) legislation has spread rapidly to 24 states and is currently being considered in several more. Despite this momentum, there is little evidence on whether these programs successfully expand access for their target populations. Using longitudinal administrative data and the staggered rollout of programs across Washington state, I implement a stacked event study to estimate the causal effects of CCB program introduction on degree attainment and earnings. Motivated by the democratization versus diversion framework from Rouse (1995), I also separately identify treatment effects based on students' predicted enrollment counterfactuals. I find that CCB introduction increases the probability of bachelor's degree completion for exposed students, but that this aggregate effect masks substantial heterogeneity. Students predicted to otherwise enroll in two-year colleges experience meaningful gains in the probability of BA attainment and earnings, while those who were likely to attend four-year institutions in the absence of CCB introduction see null to negative effects on these same outcomes. These findings suggest that, in their current form, CCBs have the potential to democratize access to bachelor's degrees for under-resourced students but may also divert more academically prepared students from higher-return pathways.
+Coming soon
 </details>
 
 <br>
