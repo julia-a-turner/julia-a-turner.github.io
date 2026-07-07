@@ -20,6 +20,24 @@ Expanding access to bachelor's degrees has become a central goal of higher educa
 
 ## Working Papers
 
+**[The Labor Market Value of Community College Bachelor’s Degrees: Initial Evidence from a Resume Audit Study in Early Childhood Education](https://www.nber.org/papers/w35404)**
+(with [Riley Acton](https://www.rileyacton.com/home) ⓡ, [Camila Morales](https://www.camilantmorales.com/) ⓡ, [Lois Miller](https://www.loismiller.info/home) ⓡ, [Kalena Cortes](https://www.kalenacortes.com/) ⓡ)
+
+[NBER WP No. 35404](https://www.nber.org/papers/w35404)
+
+<details>
+<summary>Abstract</summary>
+<br>
+Community colleges are more financially, academically, and geographically accessible than four-year institutions. Yet despite most community college students intending to earn a bachelor’s degree, few successfully transfer and complete one. Community College Baccalaureate (CCB) programs have emerged as an alternative pathway, allowing community colleges to confer bachelor’s degrees directly. However, little is known about how employers value these credentials in the labor market. To address this question, we conduct the first resume audit study of CCB degrees, submitting fictitious applications to real job vacancies while experimentally varying applicants’ educational credentials, degree-granting institutions, and demographic signals. In this pilot study, we focus on the early childhood education (ECE) labor market, a rapidly growing CCB field characterized by labor shortages and increasing educational requirements. We find that employers view CCB degrees similarly to both traditional bachelor’s and associate degrees, with statistically indistinguishable interview-request rates across degree types. A text analysis of employer callback messages reveals little evidence that employers communicate differently with CCB applicants, while a net-price simulation suggests that sticker-price comparisons substantially overstate the affordability advantage of CCB programs. Together, these findings provide new evidence on the labor market value and affordability of CCB degrees and inform an ongoing large-scale audit study across additional fields and labor markets.
+<br>
+  
+**Presented at**: Minneapolis Fed Opportunity for Inclusive Growth Institute's Early Career Workshop (Miller), APPAM (Turner), AEFP (Miller), Upjohn Insititue (Cortes)
+
+</details>
+
+<br>
+
+
 **[Community College Bachelor's Degrees: How CCB Graduates' Earnings Compare to AAs and BAs](https://www.nber.org/papers/w34684)**
 (with [Riley Acton](https://www.rileyacton.com/) ⓡ, [Camila Morales](https://www.camilantmorales.com/) ⓡ, [Kalena Cortes](https://www.kalenacortes.com/) ⓡ, and [Lois Miller](https://www.loismiller.info/home) ⓡ)
 
@@ -33,21 +51,6 @@ We provide the first descriptive analysis of the economic value of Community Col
 <br>
 
 **Presented at**: MidSouth Education Policy Workshop (Turner), AEFP (Turner)
-
-</details>
-
-<br>
-
-**Estimating the Value of a New Postsecondary Credential: An Audit Study of Community College Bachelor's Degrees**
-(with [Riley Acton](https://www.rileyacton.com/home) ⓡ, [Camila Morales](https://www.camilantmorales.com/) ⓡ, [Lois Miller](https://www.loismiller.info/home) ⓡ, [Kalena Cortes](https://www.kalenacortes.com/) ⓡ)
-
-<details>
-<summary>Abstract</summary>
-<br>
-Despite growing demand for bachelor’s degrees, disparities in degree attainment persist across socioeconomic and demographic groups, prompting policymakers to explore alternative pathways to bachelor’s degree completion. Community College Baccalaureate (CCB) programs have emerged as one such pathway, allowing community colleges to confer bachelor’s degrees directly. However, little is known about how employers value these credentials in the labor market. To address this question, we conduct the first resume audit study of CCB degrees, submitting fictitious applications to real job vacancies while experimentally varying applicants’ educational credentials, degree-granting institutions, and demographic signals. In this pilot study, we focus on the early childhood education (ECE) labor market, a rapidly growing CCB field characterized by labor shortages and increasing educational requirements. We find that applicants holding CCB degrees receive callback rates comparable to those of applicants with traditional bachelor’s and associate degrees, suggesting that employers do not systematically discount CCB credentials in this setting. A text analysis of employer callback messages reveals little evidence that employers communicate differently with CCB applicants, while a net-price simulation suggests that sticker-price comparisons substantially overstate the affordability advantage of CCB programs. Together, these findings provide new evidence on the labor market value and affordability of CCB degrees.
-<br>
-  
-**Presented at**: Minneapolis Fed Opportunity for Inclusive Growth Institute's Early Career Workshop (Miller), APPAM (Turner), AEFP (Miller), Upjohn Insititue (Cortes)
 
 </details>
 
@@ -87,6 +90,7 @@ Building on canonical models of human capital investment, this paper explores th
 
 ## Works in Progress
 
+- Estimating the Value of a New Postsecondary Credential: An Audit Study of Community College Bachelor’s Degrees (with [Riley Acton](https://www.rileyacton.com/), [Kalena Cortes](https://www.kalenacortes.com/), [Lois Miller](https://www.loismiller.info/home), and [Camila Morales](https://www.camilantmorales.com/)) 
 - Understanding Student Debt Relief: Insights from SAVE
 - Moving Forward and Staying in Place: Choosing the Community College Baccalaureate
 - Gender Gaps in Student Loan Repayment (with [Meredith Welch](https://www.meredithswelch.com/))
