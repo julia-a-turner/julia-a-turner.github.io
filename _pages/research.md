@@ -23,7 +23,7 @@ Expanding access to bachelor's degrees has become a central goal of higher educa
 **[The Labor Market Value of Community College Bachelor’s Degrees: Initial Evidence from a Resume Audit Study in Early Childhood Education](https://www.nber.org/papers/w35404)**
 (with [Riley Acton](https://www.rileyacton.com/home) ⓡ, [Camila Morales](https://www.camilantmorales.com/) ⓡ, [Lois Miller](https://www.loismiller.info/home) ⓡ, [Kalena Cortes](https://www.kalenacortes.com/) ⓡ)
 
-[NBER WP No. 35404](https://www.nber.org/papers/w35404)
+[ [NBER WP No. 35404](https://www.nber.org/papers/w35404) ]
 
 <details>
 <summary>Abstract</summary>
