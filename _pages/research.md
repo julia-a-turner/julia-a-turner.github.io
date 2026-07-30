@@ -31,7 +31,7 @@ Coming soon
 Community colleges are more financially, academically, and geographically accessible than four-year institutions. Yet despite most community college students intending to earn a bachelor’s degree, few successfully transfer and complete one. Community College Baccalaureate (CCB) programs have emerged as an alternative pathway, allowing community colleges to confer bachelor’s degrees directly. However, little is known about how employers value these credentials in the labor market. To address this question, we conduct the first resume audit study of CCB degrees, submitting fictitious applications to real job vacancies while experimentally varying applicants’ educational credentials, degree-granting institutions, and demographic signals. In this pilot study, we focus on the early childhood education (ECE) labor market, a rapidly growing CCB field characterized by labor shortages and increasing educational requirements. We find that employers view CCB degrees similarly to both traditional bachelor’s and associate degrees, with statistically indistinguishable interview-request rates across degree types. A text analysis of employer callback messages reveals little evidence that employers communicate differently with CCB applicants, while a net-price simulation suggests that sticker-price comparisons substantially overstate the affordability advantage of CCB programs. Together, these findings provide new evidence on the labor market value and affordability of CCB degrees and inform an ongoing large-scale audit study across additional fields and labor markets.
 <br>
   
-**Presented at**: Minneapolis Fed Opportunity for Inclusive Growth Institute's Early Career Workshop (Miller), APPAM (Turner), AEFP (Miller), Upjohn Insititue (Cortes)
+<strong>Presented at:</strong> Minneapolis Fed Opportunity for Inclusive Growth Institute's Early Career Workshop (Miller), APPAM 2025 (Turner), AEFP 2026 (Miller), Upjohn Insititue (Cortes)
 
 </details>
 
@@ -50,7 +50,7 @@ We provide the first descriptive analysis of the economic value of Community Col
   
 <br>
 
-**Presented at**: MidSouth Education Policy Workshop (Turner), AEFP (Turner)
+<strong>Presented at:</strong> MidSouth Education Policy Workshop (Turner), AEFP 2026 (Turner)
 
 </details>
 
@@ -67,7 +67,7 @@ We provide the first descriptive analysis of the economic value of Community Col
 While Universal Pre-Kindergarten (UPK) is known to increase maternal labor supply, its broader labor market effects remain understudied. We analyze UPK programs implemented across nine states and cities between 1995 and 2019, exploiting staggered adoption for identification. In conservative specifications, UPK increased Pre-K enrollment by about 10 percentage points and raised labor force participation, employment, and hours worked by roughly 1 percent. Employment effects were largest for mothers (who account for about one-fifth of the total effect) but extended to other groups, especially women. Among adults without young children, effects are strongest for groups that, based on time use data, spend significant time caring for young children—consistent with UPK inducing increased employment among informal child care providers. Impacts vary across settings, with the largest effects in areas providing at least five hours of care per day. UPK increased aggregate earnings by about 0.6% overall, with each dollar spent generating roughly four dollars in additional earnings; this rises to 3%, corresponding to thirteen dollars per dollar spent, for expansions providing five or more hours of care. Accounting for state tax revenue alone, state Marginal Values of Public Funds (MVPF) range from 0.65 to 1.31, while the social MVPF, which also accounts for induced federal tax revenue, ranges from 1.77 to 3.53 across all programs and is infinite for full-time programs that generate sufficient state and federal tax revenue to fully pay for themselves. Results suggest that labor market responses beyond the canonical model that focuses on parents alone lead to sizable economic returns to early childhood education investments.
 <br>
   
-**Presented at**: NBER Summer Institute 2025, Children and Families (Jackson)
+<strong>Presented at:</strong> NBER Summer Institute 2025 (Jackson)
 
 </details>
 
@@ -81,21 +81,11 @@ While Universal Pre-Kindergarten (UPK) is known to increase maternal labor suppl
 Building on canonical models of human capital investment, this paper explores the potential of the minimum wage to impact college enrollment decisions by shifting both the wage premium and the opportunity cost associated with post-secondary investment. Whereas existing literature presents conflicting evidence on enrollment responses across two- and four-year institutions, I present a unifying framework with which to make sense of these effects. Using national post-secondary enrollment data from IPEDS and wage data from the CPS, I show that the extent to which these parameters are shifted by a changing minimum wage is a function of prevailing wage distributions in the year before a minimum wage change occurs and, specifically, who is bound by the new minimum wage. Guided by my theoretical framework, I use variation in state-level minimum wage changes to size the determinants of enrollment responses to individual changes across years and states. I show that states in which higher shares of high school graduates are bound by the minimum wage are those most likely to experience large enrollment declines at community colleges in response to an increasing minimum wage. Finally, I use my framework to consolidate conflicting estimates from the existing literature.
 <br>
   
-**Presented at**: [IZA Summer School](https://conference.iza.org/conference_files/SummerSchool_2023/program) (Berlin, July 2023) 
+<strong>Presented at:</strong> [IZA Summer School](https://conference.iza.org/conference_files/SummerSchool_2023/program) (Berlin, July 2023) 
   
 </details>
 <br>
 
-
-
-## Works in Progress
-
-- Estimating the Value of a New Postsecondary Credential: An Audit Study of Community College Bachelor’s Degrees (with [Riley Acton](https://www.rileyacton.com/), [Kalena Cortes](https://www.kalenacortes.com/), [Lois Miller](https://www.loismiller.info/home), and [Camila Morales](https://www.camilantmorales.com/)) 
-- Understanding Student Debt Relief: Insights from SAVE
-- Moving Forward and Staying in Place: Choosing the Community College Baccalaureate
-- Gender Gaps in Student Loan Repayment (with [Meredith Welch](https://www.meredithswelch.com/))
-
-<br>
 
 ## Publications
 
@@ -111,6 +101,17 @@ Building on canonical models of human capital investment, this paper explores th
 &emsp; *Review of Economics and Statistics*
 
 <br>
+
+
+## Works in Progress
+
+- Estimating the Value of a New Postsecondary Credential: An Audit Study of Community College Bachelor’s Degrees (with [Riley Acton](https://www.rileyacton.com/), [Kalena Cortes](https://www.kalenacortes.com/), [Lois Miller](https://www.loismiller.info/home), and [Camila Morales](https://www.camilantmorales.com/)) 
+- Understanding Student Debt Relief: Insights from SAVE
+- Moving Forward and Staying in Place: Choosing the Community College Baccalaureate
+- Gender Gaps in Student Loan Repayment (with [Meredith Welch](https://www.meredithswelch.com/))
+
+<br>
+
 
 
 ## Policy Briefs and Other Writing
