@@ -81,7 +81,7 @@ While Universal Pre-Kindergarten (UPK) is known to increase maternal labor suppl
 Building on canonical models of human capital investment, this paper explores the potential of the minimum wage to impact college enrollment decisions by shifting both the wage premium and the opportunity cost associated with post-secondary investment. Whereas existing literature presents conflicting evidence on enrollment responses across two- and four-year institutions, I present a unifying framework with which to make sense of these effects. Using national post-secondary enrollment data from IPEDS and wage data from the CPS, I show that the extent to which these parameters are shifted by a changing minimum wage is a function of prevailing wage distributions in the year before a minimum wage change occurs and, specifically, who is bound by the new minimum wage. Guided by my theoretical framework, I use variation in state-level minimum wage changes to size the determinants of enrollment responses to individual changes across years and states. I show that states in which higher shares of high school graduates are bound by the minimum wage are those most likely to experience large enrollment declines at community colleges in response to an increasing minimum wage. Finally, I use my framework to consolidate conflicting estimates from the existing literature.
 <br>
   
-<strong>Presented at:</strong> [IZA Summer School](https://conference.iza.org/conference_files/SummerSchool_2023/program) (Berlin, July 2023) 
+<strong>Presented at:</strong> IZA Summer School (Berlin, July 2023) 
   
 </details>
 <br>
