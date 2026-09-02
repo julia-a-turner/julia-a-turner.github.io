@@ -38,6 +38,22 @@ Community colleges are more financially, academically, and geographically access
 <br>
 
 
+**[Apprenticeship and Postsecondary Education are Intertwined: New Evidence on Apprenticeship Pathways in the United States](https://www.philadelphiafed.org/consumer-finance/education-finance/apprenticeship-and-postsecondary-education-are-intertwined)**
+(with [Rajeev Darolia](http://rajeevdarolia.com/), Lora Dufrense, and [Tomás E. Monarrez](https://tmonarrez.github.io/))
+
+[ [FRBP 26-02]([https://www.nber.org/papers/w35404](https://www.philadelphiafed.org/consumer-finance/education-finance/apprenticeship-and-postsecondary-education-are-intertwined)) ]
+
+<details>
+<summary>Abstract</summary>
+<br>
+We use a large sample of online job postings and individual worker profiles to study apprenticeship in the United States. Counter to a view where apprenticeship and postsecondary education are substitutes, we find that these skill-building pathways are deeply intertwined for many: Nearly half of apprentices start their apprenticeships having already attended some college, and about 32 percent of apprentices arrive with prior college credentials. Similarly, about 40 percent of apprentices who started their apprenticeships with no prior education ultimately attain a bachelor’s degree or higher. Pathways vary considerably across fields: Apprentices in the trades typically enter with little aligned prior education, suggesting that many of these students are using the apprenticeship to break into a new field. Apprentices in white-collar occupations, however, more often arrive already embedded in the relevant domain, suggesting that they use apprenticeship to deepen skills within an existing career trajectory. For many participants, apprenticeship serves as an intermediate step in a longer postsecondary trajectory, which carries important implications for the evaluation of apprenticeship programs within the broader postsecondary education system.
+<br>
+
+</details>
+
+<br>
+
+
 **[Community College Bachelor's Degrees: How CCB Graduates' Earnings Compare to AAs and BAs](https://www.nber.org/papers/w34684)**
 (with [Riley Acton](https://www.rileyacton.com/) ⓡ, [Camila Morales](https://www.camilantmorales.com/) ⓡ, [Kalena Cortes](https://www.kalenacortes.com/) ⓡ, and [Lois Miller](https://www.loismiller.info/home) ⓡ)
 
