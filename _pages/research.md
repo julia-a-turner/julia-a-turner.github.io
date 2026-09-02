@@ -41,7 +41,7 @@ Community colleges are more financially, academically, and geographically access
 **[Apprenticeship and Postsecondary Education are Intertwined: New Evidence on Apprenticeship Pathways in the United States](https://www.philadelphiafed.org/consumer-finance/education-finance/apprenticeship-and-postsecondary-education-are-intertwined)**
 (with [Rajeev Darolia](http://rajeevdarolia.com/), Lora Dufrense, and [Tomás E. Monarrez](https://tmonarrez.github.io/))
 
-[ [FRBP 26-02]([https://www.nber.org/papers/w35404](https://www.philadelphiafed.org/consumer-finance/education-finance/apprenticeship-and-postsecondary-education-are-intertwined)) ]
+[ [FRBP 26-02](https://www.philadelphiafed.org/consumer-finance/education-finance/apprenticeship-and-postsecondary-education-are-intertwined) ]
 
 <details>
 <summary>Abstract</summary>
