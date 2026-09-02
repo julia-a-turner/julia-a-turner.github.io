@@ -4,7 +4,7 @@ title:
 author_profile: true
 ---
 
-Welcome! I am a PhD candidate in Human Development and Social Policy at Northwestern University and an NSF Graduate Research Fellow. **I am on the 2026-2027 job market.**
+Welcome! I am a PhD candidate in Human Development and Social Policy at Northwestern University and am on the 2026-2027 job market.
 
 I study postsecondary investment decisions and the policies that affect them, with a focus on the expanding landscape of postsecondary options such as community college bachelor's degrees and apprenticeships. My training is grounded in economics, but draws on insights from other social sciences and uses mixed methods including surveys and qualitative interviews.
 
