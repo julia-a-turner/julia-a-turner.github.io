@@ -12,7 +12,7 @@ author_profile: true
 <details>
 <summary>Abstract</summary>
 <br>
-Coming soon
+Twenty-four states currently allow community colleges to award bachelor's degrees (BAs), but there is little causal evidence as to whether these programs expand access to the BA or simply shift enrollment across institutions. Using longitudinal administrative data and the staggered rollout of programs across Washington state, I estimate the effect of community college baccalaureate (CCB) introduction on degree attainment and earnings. CCB introduction increases overall BA completion, but this aggregate effect masks substantial heterogeneity in who benefits and which programs work. Students predicted to otherwise enroll in two-year colleges see gains in bachelor's and graduate degree attainment with suggestively positive effects on earnings, while those likely to attend four-year institutions absent CCB introduction see null to negative effects on the same outcomes. Openings in fields such as nursing and computer science, where seats at four-year institutions are rationed through competitive major admissions, drive these completion and earnings gains, while openings in effectively open-access fields generate null effects. Taken together, these results suggest that CCB programs generate the largest benefits where existing constraints on bachelor's degree attainment bind, whether at the student or the program level. 
 </details>
 
 <br>
