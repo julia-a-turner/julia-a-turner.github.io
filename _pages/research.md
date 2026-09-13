@@ -125,6 +125,7 @@ Building on canonical models of human capital investment, this paper explores th
 - Understanding Student Debt Relief: Insights from SAVE
 - Moving Forward and Staying in Place: Choosing the Community College Baccalaureate
 - Gender Gaps in Student Loan Repayment (with [Meredith Welch](https://www.meredithswelch.com/))
+- Take a Loan Off Fannie (Mae): Student Loans, Mortgage Underwriting, and Household Balance Sheets (with [Kelcie Ferrara-Gerson](https://sites.google.com/umich.edu/kelcieferraragerson/about?authuser=0))
 
 <br>
 
