@@ -20,7 +20,7 @@ Twenty-four states currently allow community colleges to award bachelor's degree
 
 ## Working Papers
 
-**[The Labor Market Value of Community College Bachelor’s Degrees: Initial Evidence from a Resume Audit Study in Early Childhood Education](https://www.nber.org/papers/w35404)**
+**The Labor Market Value of Community College Bachelor’s Degrees: Initial Evidence from a Resume Audit Study in Early Childhood Education**
 (with [Riley Acton](https://www.rileyacton.com/home) ⓡ, [Camila Morales](https://www.camilantmorales.com/) ⓡ, [Lois Miller](https://www.loismiller.info/home) ⓡ, [Kalena Cortes](https://www.kalenacortes.com/) ⓡ)
 
 [ [NBER WP No. 35404](https://www.nber.org/papers/w35404) ]
@@ -38,7 +38,7 @@ Community colleges are more financially, academically, and geographically access
 <br>
 
 
-**[Apprenticeship and Postsecondary Education are Intertwined: New Evidence on Apprenticeship Pathways in the United States](https://www.philadelphiafed.org/consumer-finance/education-finance/apprenticeship-and-postsecondary-education-are-intertwined)**
+**Apprenticeship and Postsecondary Education are Intertwined: New Evidence on Apprenticeship Pathways in the United States**
 (with [Rajeev Darolia](http://rajeevdarolia.com/), Lora Dufrense, and [Tomás E. Monarrez](https://tmonarrez.github.io/))
 
 [ [FRBP 26-02](https://www.philadelphiafed.org/consumer-finance/education-finance/apprenticeship-and-postsecondary-education-are-intertwined) ]
@@ -54,7 +54,7 @@ We use a large sample of online job postings and individual worker profiles to s
 <br>
 
 
-**[Community College Bachelor's Degrees: How CCB Graduates' Earnings Compare to AAs and BAs](https://www.nber.org/papers/w34684)**
+**Community College Bachelor's Degrees: How CCB Graduates' Earnings Compare to AAs and BAs**
 (with [Riley Acton](https://www.rileyacton.com/) ⓡ, [Camila Morales](https://www.camilantmorales.com/) ⓡ, [Kalena Cortes](https://www.kalenacortes.com/) ⓡ, and [Lois Miller](https://www.loismiller.info/home) ⓡ)
 
 [ [NBER WP No. 34684](https://www.nber.org/papers/w34684) &nbsp; · &nbsp; [NBER Digest](https://www.nber.org/digest/202603/earnings-community-college-bachelors-degree-graduates?page=1&perPage=50) &nbsp; · &nbsp; [PSEO Report](https://pseocoalition.org/wp-content/uploads/2025/07/PSEO-Coalition_Community-College-Bachelor-Degrees-How-CCB-Graduates-Earnings-Compare.pdf) &nbsp; · &nbsp; [Brookings Chalkboard](https://www.brookings.edu/articles/what-are-community-college-bachelors-degrees-and-how-much-do-their-graduates-earn/) ]
@@ -72,7 +72,7 @@ We provide the first descriptive analysis of the economic value of Community Col
 
 <br>
 
-**[Universal Pre-K as Economic Stimulus: Evidence from Nine States and Large Cities in the U.S.](https://www.nber.org/papers/w33767)**
+**Universal Pre-K as Economic Stimulus: Evidence from Nine States and Large Cities in the U.S.**
 (with Kirabo Jackson and Jacob Bastian) _Under Review_
 
 [ [NBER WP No. 33767](https://www.nber.org/papers/w33767) ]
@@ -105,16 +105,16 @@ Building on canonical models of human capital investment, this paper explores th
 
 ## Publications
 
-**[Apprenticeships in the United States: Emerging Opportunities and Evidence Gaps](https://onlinelibrary.wiley.com/doi/10.1002/pam.70082)**
-(with [Rajeev Darolia](http://rajeevdarolia.com/))
+**Apprenticeships in the United States: Emerging Opportunities and Evidence Gaps**
+(with [Rajeev Darolia](http://rajeevdarolia.com/)), *Journal of Policy Analysis and Management*
 
-&emsp; *Journal of Policy Analysis and Management* (Policy Brief)
+[ [Published Version](https://onlinelibrary.wiley.com/doi/10.1002/pam.70082) ]
 
 
-**[Raising state minimum wages, lowering community college enrollment](https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01457/120871/Raising-State-Minimum-Wages-Lowering-Community?redirectedFrom=fulltext)**
-(with [Diane Schanzenbach](https://www.dianeschanzenbach.com/) and [Sarah Turner](https://economics.virginia.edu/people/set5h))
+**Raising state minimum wages, lowering community college enrollment**
+(with [Diane Schanzenbach](https://www.dianeschanzenbach.com/) and [Sarah Turner](https://economics.virginia.edu/people/set5h)), *Review of Economics and Statistics*
 
-&emsp; *Review of Economics and Statistics*
+[ [Published Version](https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01457/120871/Raising-State-Minimum-Wages-Lowering-Community?redirectedFrom=fulltext) &nbsp; · &nbsp; [NBER WP No. 31540](https://www.nber.org/papers/w31540) ]
 
 <br>
 
