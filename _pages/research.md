@@ -7,7 +7,7 @@ author_profile: true
 
 ## Job Market Paper
 
-**Degrees within Reach: Who Benefits from Community College Baccalaureate Introduction?**
+**Degrees within Reach: Who Benefits When Community Colleges Offer Bachelor's Degrees?**
 
 <details>
 <summary>Abstract</summary>
