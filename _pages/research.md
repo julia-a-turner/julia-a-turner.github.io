@@ -7,7 +7,7 @@ author_profile: true
 
 ## Job Market Paper
 
-**Degrees within Reach: Who Benefits When Community Colleges Offer Bachelor's Degrees?**
+**[Degrees within Reach: Who Benefits When Community Colleges Offer Bachelor's Degrees?](https://julia-a-turner.github.io/files/JMPdraft_JATurner_CURRENT.pdf)**
 
 <details>
 <summary>Abstract</summary>
@@ -39,7 +39,7 @@ Community colleges are more financially, academically, and geographically access
 
 
 **Apprenticeship and Postsecondary Education are Intertwined: New Evidence on Apprenticeship Pathways in the United States**
-(with [Rajeev Darolia](http://rajeevdarolia.com/), Lora Dufrense, and [Tomás E. Monarrez](https://tmonarrez.github.io/))
+(with [Rajeev Darolia](http://rajeevdarolia.com/), Lora Dufrense, and [Tomás E. Monarrez](https://tmonarrez.github.io/)) _Submitted_
 
 [ [FRBP 26-02](https://www.philadelphiafed.org/consumer-finance/education-finance/apprenticeship-and-postsecondary-education-are-intertwined) ]
 
@@ -73,7 +73,7 @@ We provide the first descriptive analysis of the economic value of Community Col
 <br>
 
 **Universal Pre-K as Economic Stimulus: Evidence from Nine States and Large Cities in the U.S.**
-(with Kirabo Jackson and Jacob Bastian) _Under Review_
+(with Kirabo Jackson and Jacob Bastian) _Submitted_
 
 [ [NBER WP No. 33767](https://www.nber.org/papers/w33767) ]
 
